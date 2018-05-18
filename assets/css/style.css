@@ -1,0 +1,64 @@
+
+
+  body {
+      background-color: pink;
+  }
+
+  .container {
+      background-color: #4aaaa5;
+  }
+
+.Header {
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    float: left;
+    width: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: #cccccc;
+    color: #4aaaa5;
+    background-color: #ffffff
+}
+
+.New {
+    float: left;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 40%;
+}    
+
+.Contact {
+    float: left;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 30%;
+    padding-top: 30px;
+}
+
+.Portfolio {
+    float: left;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 30%;
+    padding-top: 30px;
+}
+
+.About {
+    float: left;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 30%;
+    padding-top: 30px;
+}
+
+.P {
+    text-align: inherit;
+}
+
+.Image {
+    clear: both;
+}
